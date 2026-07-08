@@ -50,4 +50,4 @@ console.log("Number of relaxed sessions:", countMood(hobbyLog, "relaxed"));
 console.log("Focused sessions:", countMood(hobbyLog, "focused"));
 
 // Suggestion for improvement:
-// Make totalTime's reduce's parameter "sum" to "total" for eaiser reading and understanding in English
+// Make totalTime's reduce's parameter "sum" to "total" for eaiser reading and understanding in English.
